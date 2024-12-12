@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test Vocacional</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <img src="logo.png" alt="ISILY Logo">
+        </div>
+    </header>
+    <main>
+        <section class="hero">
+            <div class="hero-content">
+                <div class="hero-image">
+                    <img src="hero-image.png" alt="Person meditating">
+                </div>
+                <h1>Test Vocacional</h1>
+                <p>Descubre tu camino profesional con nuestro test vocacional online. ¿Todavía no sabes qué estudiar? ¡Aprovecha este test vocacional gratis y toma la mejor decisión para tu futuro!</p>
+                <button class="btn">Empezar</button>
+            </div>
+            <div class="hero-background">
+                <div class="background-item book"></div>
+                <div class="background-item book"></div>
+                <div class="background-item graduation"></div>
+                <div class="background-item rocket"></div>
+                <div class="background-item lightbulb"></div>
+                <div class="background-item microscope"></div>
+                <div class="background-item clock"></div>
+                <div class="background-item atom"></div>
+                <div class="background-item pencil"></div>
+                <div class="background-item calculator"></div>
+                <div class="background-item graduation"></div>
+                <div class="background-item rocket"></div>
+            </div>
+        </section>
+        <section class="info">
+            <div class="info-container">
+                <p>Más información</p>
+            </div>
+            <div class="info-container">
+                <p>Política de protección de datos personales</p>
+            </div>
+        </section>
+    </main>
+    <script src="script.js"></script>
+</body>
